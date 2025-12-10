@@ -224,6 +224,8 @@ Screenshots:
 <img width="1013" height="467" alt="image" src="https://github.com/user-attachments/assets/800f7f88-4560-4f23-8d34-efd8f993bdee" />
 <img width="1461" height="750" alt="image" src="https://github.com/user-attachments/assets/b690f321-8462-42db-83b3-06c6861cdf14" />
 <img width="1022" height="733" alt="image" src="https://github.com/user-attachments/assets/15eff209-8ef7-494f-8044-9233f4ab7939" />
+<img width="1725" height="517" alt="image" src="https://github.com/user-attachments/assets/60743269-2d0c-4b37-966f-a358b95b6d8f" />
+
 
 
 
