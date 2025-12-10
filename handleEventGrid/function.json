@@ -1,0 +1,16 @@
+{
+  "bindings": [
+    {
+      "name": "event",
+      "type": "eventGridTrigger",
+      "direction": "in"
+    },
+    {
+      "name": "outputQueueItem",
+      "type": "serviceBus",
+      "direction": "out",
+      "queueName": "bank-queue",
+      "connection": "SERVICE_BUS_CONNECTION_STR"
+    }
+  ]
+}
